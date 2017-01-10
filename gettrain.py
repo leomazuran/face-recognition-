@@ -1,4 +1,4 @@
-# this program will uses the a webcam, detect a face using Haar Cascade and let the user save crop image of the person's face and save it on a local documnet folder
+# this program will use the a webcam, detect a face using Haar Cascade and let the user save crop image of the person's face and save it on a local documnet folder
 # then the program will get the images from the document folder and convert it to a data set using opencv's Local Binary Pattern Histogram Face Recognition functions.
 #calling cv2
 import cv2
