@@ -13,3 +13,9 @@ Using the haar cascade clasifier it will search for a face and find covert it to
 look for the closest related histogram associated with it and print out the id from the dataset and search for the user in the database text file.
 Visit this site to view a demo of this python program:
 https://www.youtube.com/watch?v=Bjz2lmWh0ws
+
+both python files are need and are both commented to better explain what each function does.
+Libraries used:
+opencv3.0, PIL from image, numpy, os.
+language: python 3.5.
+Please feel free to comment or give any feedback or corrections.
